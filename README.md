@@ -40,14 +40,13 @@ To get started with the Crew AI tutorial project, please follow these steps:
 
 3. Set up your API keys for Crew AI and any other services used in the project. Add them to the `.env` file in the project's root directory.
 
-## Usage
+## Example Input
 
-Follow the video tutorial!
+What are the emails for the participants (other than you) in the meeting?
+ninja@gmail.com, yotaml@elad.co.il, linyotam@gmail.com
 
-## Contributing
+What is the context of the meeting?
+The participants of the meeting have decided that they want to find a new industry to invest in. They have lost faith in artificial intelligence, so they want to start investing in cat coffee shops. cat coffee shops are cafes where people come to drink soft drinks with cats walking around. the clients are allowed to pet the cats.
 
-This project is designed for educational purposes as part of a comprehensive YouTube tutorial on Crew AI. While this repository serves as a foundation for learning and exploration, we encourage you to fork it and experiment with creating your own autonomous agents and crews based on the concepts taught.
-
-## License
-
-This Crew AI Autonomous Agents Tutorial project is released under the [MIT License](https://opensource.org/licenses/MIT).
+What is your objective for this meeting?
+Find a way to enter this new market and make it profitable. ideally, the participants should be able to find a location to open their first cat coffee shop.

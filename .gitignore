@@ -28,6 +28,7 @@ wheels/
 envs/
 .env/
 .venv/
+.env
 
 # VSCode settings
 .vscode/
